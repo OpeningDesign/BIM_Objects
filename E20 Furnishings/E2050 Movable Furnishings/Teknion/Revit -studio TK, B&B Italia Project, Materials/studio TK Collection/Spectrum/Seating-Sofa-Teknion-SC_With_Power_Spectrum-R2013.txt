@@ -1,0 +1,7 @@
+;Description##other##;Model##other##;Has Extension##other##;Has Arms##other##;Has Power##other##;Unit Weight##other##;Width Seat##length##inches
+Two Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Two Seater Sofa With Extensions, With Power;SC2P;1;0;1;225;60.25
+Three Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Three Seater Sofa With Extensions, With Power;SC3P;1;0;1;275;90.25
+Four Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Four Seater Sofa With Extensions, With Power;SC4P;1;0;1;0;120.25
+Five Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Five Seater Sofa With Extensions, With Power;SC5P;1;0;1;0;150.25
+Six Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Six Seater Sofa With Extensions, With Power;SC6P;1;0;1;0;180.25
+Seven Seater With Extensions, Power/USB Options;Spectrum Multiple Seater Contrast, Seven Seater Sofa With Extensions, With Power;SC7P;1;0;1;0;210.25

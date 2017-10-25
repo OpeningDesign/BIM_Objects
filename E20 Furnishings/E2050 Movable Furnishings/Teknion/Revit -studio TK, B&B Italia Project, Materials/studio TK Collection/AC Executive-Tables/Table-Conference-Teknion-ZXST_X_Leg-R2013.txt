@@ -1,0 +1,7 @@
+;Model##other##;Depth##length##inches;Width##length##inches;Height##length##inches;Description##other##;Unit Weight##other##
+"48"" x 102"" x 30""";ZXST4810230;48;102;30;"One Piece X-Leg Conference Table, 48""d x 102"" w x 30"" h";348
+"48"" x 108"" x 30""";ZXST4810830;48;108;30;"One Piece X-Leg Conference Table, 48""d x 108"" w x 30"" h";357
+"48"" x 96"" x 30""";ZXST489630;48;96;30;"One Piece X-Leg Conference Table, 48""d x 96"" w x 30"" h";339
+"54"" x 102"" x 30""";ZXST5410230;54;102;30;"One Piece X-Leg Conference Table, 54""d x 102"" w x 30"" h";366
+"54"" x 108"" x 30""";ZXST5410830;54;108;30;"One Piece X-Leg Conference Table, 54""d x 108"" w x 30"" h";376
+"54"" x 96"" x 30""";ZXST549630;54;96;30;"One Piece X-Leg Conference Table, 54""d x 96"" w x 30"" h";357

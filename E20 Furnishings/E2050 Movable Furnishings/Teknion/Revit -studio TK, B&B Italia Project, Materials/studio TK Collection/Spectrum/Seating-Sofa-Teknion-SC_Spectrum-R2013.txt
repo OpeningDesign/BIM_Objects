@@ -1,0 +1,19 @@
+,Description##other##,Model##other##,Has Extension##other##,Has Arms##other##,Unit Weight##other##,Width Seat##length##inches
+Two Seater With Arms,"Spectrum Multiple Seater Contrast, Two Seater Sofa With Arms",SC2A,0,1,175,60.25
+Two Seater With Extensions,"Spectrum Multiple Seater Contrast, Two Seater Sofa With Extensions",SC2E,1,0,175,60.25
+Two Seater No Arms,"Spectrum Multiple Seater Contrast, Two Seater Sofa No Arms",SC2N,0,0,155,60.25
+Three Seater With Arms,"Spectrum Multiple Seater Contrast, Three Seater Sofa With Arms",SC3A,0,1,230,90.25
+Three Seater With Extensions,"Spectrum Multiple Seater Contrast, Three Seater Sofa With Extensions",SC3E,1,0,230,90.25
+Three Seater No Arms,"Spectrum Multiple Seater Contrast, Three Seater Sofa No Arms",SC3N,0,0,220,90.25
+Four Seater With Arms,"Spectrum Multiple Seater Contrast, Four Seater Sofa With Arms",SC4A,0,1,330,120.25
+Four Seater With Extensions,"Spectrum Multiple Seater Contrast, Four Seater Sofa With Extensions",SC4E,1,0,330,120.25
+Four Seater No Arms,"Spectrum Multiple Seater Contrast, Four Seater Sofa No Arms",SC4N,0,0,310,120.25
+Five Seater With Arms,"Spectrum Multiple Seater Contrast, Five Seater Sofa With Arms",SC5A,0,1,385,150.25
+Five Seater With Extensions,"Spectrum Multiple Seater Contrast, Five Seater Sofa With Extensions",SC5E,1,0,385,150.25
+Five Seater No Arms,"Spectrum Multiple Seater Contrast, Five Seater Sofa No Arms",SC5N,0,0,365,150.25
+Six Seater With Arms,"Spectrum Multiple Seater Contrast, Six Seater Sofa With Arms",SC6A,0,1,440,180.25
+Six Seater With Extensions,"Spectrum Multiple Seater Contrast, Six Seater Sofa With Extensions",SC6E,1,0,440,180.25
+Six Seater No Arms,"Spectrum Multiple Seater Contrast, Six Seater Sofa No Arms",SC6N,0,0,420,180.25
+Seven Seater With Arms,"Spectrum Multiple Seater Contrast, Seven Seater Sofa With Arms",SC7A,0,1,550,210.25
+Seven Seater With Extensions,"Spectrum Multiple Seater Contrast, Seven Seater Sofa With Extensions",SC7E,1,0,550,210.25
+Seven Seater No Arms,"Spectrum Multiple Seater Contrast, Seven Seater Sofa No Arms",SC7N,0,0,530,210.25
