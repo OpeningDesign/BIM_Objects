@@ -1,0 +1,11 @@
+,Model##other##,Depth##length##inches,Width##length##inches,Height##length##inches,Description##other##,Has Left Door##other##,Has Right Door##other##,Has Double Left Door##other##,Has Double Right Door##other##,Has Wire Management##other##,Unit Weight##other##
+"24"" x 40"" x 25"", No Door, w/o Wire Management",ZXBF244025NN,24,40,25,"Low Box, File Credenza, 24""d x 40""w x 25""h, No Door, w/o Wire Management",0,0,0,0,0,155
+"24"" x 40"" x 25"", No Door, w/ Wire Management",ZXBF244025NY,24,40,25,"Low Box, File Credenza, 24""d x 40""w x 25""h, No Door, w/ Wire Management",0,0,0,0,1,155
+"24"" x 60"" x 25"", Door on Left, w/o Wire Management",ZXBF246025LN,24,60,25,"Low Box, File Credenza, 24""d x 60""w x 25""h, Door on Left, w/o Wire Management",1,0,0,0,0,204
+"24"" x 60"" x 25"", Door on Left, w/ Wire Management",ZXBF246025LY,24,60,25,"Low Box, File Credenza, 24""d x 60""w x 25""h, Door on Left, w/ Wire Management",1,0,0,0,1,204
+"24"" x 60"" x 25"", Door on Right, w/o Wire Management",ZXBF246025RN,24,60,25,"Low Box, File Credenza, 24""d x 60""w x 25""h, Door on Right, w/o Wire Management",0,1,0,0,0,204
+"24"" x 60"" x 25"", Door on Right, w/ Wire Management",ZXBF246025RY,24,60,25,"Low Box, File Credenza, 24""d x 60""w x 25""h, Door on Right, w/ Wire Management",0,1,0,0,1,204
+"24"" x 80"" x 25"", Door on Left, w/o Wire Management",ZXBF248025LN,24,80,25,"Low Box, File Credenza, 24""d x 80""w x 25""h, Door on Left, w/o Wire Management",0,0,1,0,0,257
+"24"" x 80"" x 25"", Door on Left, w/ Wire Management",ZXBF248025LY,24,80,25,"Low Box, File Credenza, 24""d x 80""w x 25""h, Door on Left, w/ Wire Management",0,0,1,0,1,257
+"24"" x 80"" x 25"", Door on Right, w/o Wire Management",ZXBF248025RN,24,80,25,"Low Box, File Credenza, 24""d x 80""w x 25""h, Door on Right, w/o Wire Management",0,0,0,1,0,257
+"24"" x 80"" x 25"", Door on Right, w/ Wire Management",ZXBF248025RY,24,80,25,"Low Box, File Credenza, 24""d x 80""w x 25""h, Door on Right, w/ Wire Management",0,0,0,1,1,257

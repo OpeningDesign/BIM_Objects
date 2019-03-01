@@ -1,0 +1,7 @@
+;Model##other##;Depth##length##inches;Width##length##inches;Height##length##inches;Description##other##;Unit Weight##other##;With Grommet##other##
+"36"" x 60"" x 30"", No Grommet";ZXXR3660300;36;60;29.684;"X-Leg Run-Off, 36""d x 60""w x 30""h, No Grommet";122;0
+"36"" x 60"" x 30"", One Grommets";ZXXR3660301;36;60;29.684;"X-Leg Run-Off, 36""d x 60""w x 30""h, One Grommet";122;1
+"36"" x 70"" x 30"", No Grommet";ZXXR3670300;36;70;29.684;"X-Leg Run-Off, 36""d x 70""w x 30""h, No Grommet";135;0
+"36"" x 70"" x 30"", One Grommets";ZXXR3670301;36;70;29.684;"X-Leg Run-Off, 36""d x 70""w x 30""h, One Grommet";135;1
+"36"" x 80"" x 30"", No Grommet";ZXXR3680300;36;80;29.684;"X-Leg Run-Off, 36""d x 80""w x 30""h, No Grommet";148;0
+"36"" x 80"" x 30"", One Grommets";ZXXR3680301;36;80;29.684;"X-Leg Run-Off, 36""d x 80""w x 30""h, One Grommet";148;1

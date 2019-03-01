@@ -1,0 +1,13 @@
+,Model##other##,Description##other##,Depth##length##inches,Width##length##inches,Height##length##inches,Unit Weight##other##,With Grommet##other##
+"32"" x 60"" x 30"", No Grommet",ZXWZ3260300,"Wood Gable Run-Off, 32""d x 60""w x 30""h, No Grommet",32,60,29.684,113,0
+"32"" x 60"" x 30"", One Grommet",ZXWZ3260301,"Wood Gable Run-Off, 32""d x 60""w x 30""h, One Grommet",32,60,29.684,113,1
+"32"" x 70"" x 30"", No Grommet",ZXWZ3270300,"Wood Gable Run-Off, 32""d x 70""w x 30""h, No Grommet",32,70,29.684,126,0
+"32"" x 70"" x 30"", One Grommet",ZXWZ3270301,"Wood Gable Run-Off, 32""d x 70""w x 30""h, One Grommet",32,70,29.684,126,1
+"32"" x 80"" x 30"", No Grommet",ZXWZ3280300,"Wood Gable Run-Off, 32""d x 80""w x 30""h, No Grommet",32,80,29.684,139,0
+"32"" x 80"" x 30"", One Grommet",ZXWZ3280301,"Wood Gable Run-Off, 32""d x 80""w x 30""h, One Grommet",32,80,29.684,139,1
+"36"" x 60"" x 30"", No Grommet",ZXWZ3660300,"Wood Gable Run-Off, 36""d x 60""w x 30""h, No Grommet",36,60,29.684,122,0
+"36"" x 60"" x 30"", One Grommet",ZXWZ3660301,"Wood Gable Run-Off, 36""d x 60""w x 30""h, One Grommet",36,60,29.684,122,1
+"36"" x 70"" x 30"", No Grommet",ZXWZ3670300,"Wood Gable Run-Off, 36""d x 70""w x 30""h, No Grommet",36,70,29.684,135,0
+"36"" x 70"" x 30"", One Grommet",ZXWZ3670301,"Wood Gable Run-Off, 36""d x 70""w x 30""h, One Grommet",36,70,29.684,135,1
+"36"" x 80"" x 30"", No Grommet",ZXWZ3680300,"Wood Gable Run-Off, 36""d x 80""w x 30""h, No Grommet",36,80,29.684,148,0
+"36"" x 80"" x 30"", One Grommet",ZXWZ3680301,"Wood Gable Run-Off, 36""d x 80""w x 30""h, One Grommet",36,80,29.684,148,1
