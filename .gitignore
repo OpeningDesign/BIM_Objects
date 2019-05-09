@@ -1,6 +1,6 @@
 *.*.rvt
 *.*.rte
-*000*.rfa
+*00[0-9].rfa
 *.ifc.log
 *.mp4
 *.bak
