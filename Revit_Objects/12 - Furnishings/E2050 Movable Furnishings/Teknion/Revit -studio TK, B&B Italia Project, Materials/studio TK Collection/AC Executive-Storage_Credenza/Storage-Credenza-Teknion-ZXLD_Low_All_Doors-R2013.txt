@@ -1,7 +1,0 @@
-,Model##other##,Depth##length##inches,Width##length##inches,Height##length##inches,Description##other##,Has Wire Management##other##,Unit Weight##other##
-"24"" x 40"" x 25"", w/o Wire Management",ZXLD244025N,24,40,25,"AC Executive Low All Doors Credenza, 24""d x 40""w x 25""h, w/o Wire Management",0,102
-"24"" x 40"" x 25"", w/ Wire Management",ZXLD244025Y,24,40,25,"AC Executive Low All Doors Credenza, 24""d x 40""w x 25""h, w/ Wire Management",1,102
-"24"" x 60"" x 25"", w/o Wire Management",ZXLD246025N,24,60,25,"AC Executive Low All Doors Credenza, 24""d x 60""w x 25""h, w/o Wire Management",0,153
-"24"" x 60"" x 25"", w/ Wire Management",ZXLD246025Y,24,60,25,"AC Executive Low All Doors Credenza, 24""d x 60""w x 25""h, w/ Wire Management",1,153
-"24"" x 80"" x 25"", w/o Wire Management",ZXLD248025N,24,80,25,"AC Executive Low All Doors Credenza, 24""d x 80""w x 25""h, w/o Wire Management",0,205
-"24"" x 80"" x 25"", w/ Wire Management",ZXLD248025Y,24,80,25,"AC Executive Low All Doors Credenza, 24""d x 80""w x 25""h, w/ Wire Management",1,205

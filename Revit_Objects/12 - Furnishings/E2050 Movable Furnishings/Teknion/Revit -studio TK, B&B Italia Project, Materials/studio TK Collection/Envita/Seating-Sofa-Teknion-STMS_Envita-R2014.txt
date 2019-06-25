@@ -1,7 +1,0 @@
-,Description##other##,Model##other##,Unit Weight##other##,Width##length##inches,Unit Weight##other##,With Metal Frame##other##,With Wood Frame##other##,Cushion Edge##length##inches,3 Seater Plan Symbol##other##,2 Seater Plan Symbol##other##
-"Lounge Chair, Metal Base","Envita Lounge Chair, Metal Base",STMS1M,165,38.6,175,1,0,27.5,0,0
-"Lounge Chair, Wood Base","Envita Lounge Chair, Wood Base",STMS1W,165,38.6,175,0,1,27.5,0,0
-"Sette, Metal Base","Envita Sette, Metal Base",STMS2M,330,66.35,155,1,0,27.63,0,1
-"Sette, Wood Base","Envita Sette, Wood Base",STMS2W,330,66.35,230,0,1,27.63,0,1
-"Three Seater Sofa, Metal Base","Envita Three Seater Sofa, Metal Base",STMS3M,295,94.85,230,1,0,27.92,1,0
-"Three Seater Sofa, Wood Base","Envita Three Seater Sofa, Wood Base",STMS3W,295,94.85,220,0,1,27.92,1,0
