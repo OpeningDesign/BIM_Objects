@@ -1,0 +1,28 @@
+,Model##other##,Description##other##,Unit Weight##other##,Settee##other##,Three Seater Sofa##other##,Left With Arm##other##,Left With Tablet##other##,Right With Arm##other##,Right With Tablet##other##
+PI1AA,PI1AA,"PAI Lounge Chair, with Arms LSF, with Arms RSF",80.00,0,0,1,0,1,0
+PI1AE,PI1AE,"PAI Lounge Chair, with Arms LSF, with Tablet RSF",85.00,0,0,1,0,0,1
+PI1AN,PI1AN,"PAI Lounge Chair, with Arms LSF, with No Arms RSF",75.00,0,0,1,0,0,0
+PI1EA,PI1EA,"PAI Lounge Chair, with Tablet LSF, with Arms RSF",85.00,0,0,0,1,1,0
+PI1EE,PI1EE,"PAI Lounge Chair, with Tablet LSF, with Tablet RSF",90.00,0,0,0,1,0,1
+PI1EN,PI1EN,"PAI Lounge Chair, with Tablet LSF, with No Arms RSF",82.00,0,0,0,1,0,0
+PI1NA,PI1NA,"PAI Lounge Chair, with No Arms LSF, with Arms RSF",75.00,0,0,0,0,1,0
+PI1NE,PI1NE,"PAI Lounge Chair, with No Arms LSF, with Tablet RSF",82.00,0,0,0,0,0,1
+PI1NN,PI1NN,"PAI Lounge Chair, with No Arms LSF, with No Arms RSF",65.00,0,0,0,0,0,0
+PI2AA,PI2AA,"PAI Settee, with Arms LSF, with Arms RSF",150.00,1,0,1,0,1,0
+PI2AE,PI2AE,"PAI Settee, with Arms LSF, with Tablet RSF",115.00,1,0,1,0,0,1
+PI2AN,PI2AN,"PAI Settee, with Arms LSF, with No Arms RSF",120.00,1,0,1,0,0,0
+PI2EA,PI2EA,"PAI Settee, with Tablet LSF, with Arms RSF",110.00,1,0,0,1,1,0
+PI2EE,PI2EE,"PAI Settee, with Tablet LSF, with Tablet RSF",120.00,1,0,0,1,0,1
+PI2EN,PI2EN,"PAI Settee, with Tablet LSF, with No Arms RSF",117.00,1,0,0,1,0,0
+PI2NA,PI2NA,"PAI Settee, with No Arms LSF, with Arms RSF",110.00,1,0,0,0,1,0
+PI2NE,PI2NE,"PAI Settee, with No Arms LSF, with Tablet RSF",117.00,1,0,0,0,0,1
+PI2NN,PI2NN,"PAI Settee, with No Arms LSF, with No Arms RSF",100.00,1,0,0,0,0,0
+PI3AA,PI3AA,"PAI Three Seater Sofa, with Arms LSF, with Arms RSF",150.00,0,1,1,0,1,0
+PI3AE,PI3AE,"PAI Three Seater Sofa, with Arms LSF, with Tablet RSF",155.00,0,1,1,0,0,1
+PI3AN,PI3AN,"PAI Three Seater Sofa, with Arms LSF, with No Arms RSF",143.00,0,1,1,0,0,0
+PI3EA,PI3EA,"PAI Three Seater Sofa, with Tablet LSF, with Arms RSF",155.00,0,1,0,1,1,0
+PI3EE,PI3EE,"PAI Three Seater Sofa, with Tablet LSF, with Tablet RSF",160.00,0,1,0,1,0,1
+PI3EN,PI3EN,"PAI Three Seater Sofa, with Tablet LSF, with No Arms RSF",152.00,0,1,0,1,0,0
+PI3NA,PI3NA,"PAI Three Seater Sofa, with No Arms LSF, with Arms RSF",143.00,0,1,0,0,1,0
+PI3NE,PI3NE,"PAI Three Seater Sofa, with No Arms LSF, with Tablet RSF",152.00,0,1,0,0,0,1
+PI3NN,PI3NN,"PAI Three Seater Sofa, with No Arms LSF, with No Arms RSF",135.00,0,1,0,0,0,0

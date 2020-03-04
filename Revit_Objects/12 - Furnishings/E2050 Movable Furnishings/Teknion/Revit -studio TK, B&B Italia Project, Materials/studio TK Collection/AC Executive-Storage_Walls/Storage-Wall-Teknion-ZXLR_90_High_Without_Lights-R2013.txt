@@ -1,0 +1,15 @@
+,Model##other##,Description##other##,Storage Tower##other##,Has Double Doors##other##
+"Upper Shelves & Lower Door, Double Doors",ZXLR92901DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & Low Dr-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & Lower Door,1
+"Upper Shelves & Lower Door, File File",ZXLR92901FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & Low Dr-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & Lower Door,0
+"Upper Shelves & File File Pedestal, Double Doors",ZXLR92902DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & FF Ped-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & File/File Pedestal,1
+"Upper Shelves & File File Pedestal, File File",ZXLR92902FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & FF Ped-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & File/File Pedestal,0
+"Upper Shelves & Box Box File Pedestal, Double Doors",ZXLR92903DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & BBF Ped-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & Box/Box/File Pedestal,1
+"Upper Shelves & Box Box File Pedestal, File File",ZXLR92903FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Shlvs & BBF Ped-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Shelves & Box/Box/File Pedestal,0
+"Full Wardrobe, Double Doors",ZXLR92904DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Full Wdrb-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Full Wardrobe,1
+"Full Wardrobe, File File",ZXLR92904FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Full Wdrb-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Full Wardrobe,0
+"Upper Wardrobe & Lower Door, Double Doors",ZXLR92905DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & Low Dr-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Lower Door,1
+"Upper Wardrobe & Lower Door, File File",ZXLR92905FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & Low Dr-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Lower Door,0
+"Upper Wardrobe & File File Pedestal, Double Doors",ZXLR92906DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & FF Ped-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & File/File Pedestal,1
+"Upper Wardrobe & File File Pedestal, File File",ZXLR92906FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & FF Ped-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & File/File Pedestal,0
+"Upper Wardrobe & Box Box File Pedestal, Double Doors",ZXLR92907DDN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & BBF Ped-R Twr Stor, Dbl Drs, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Box/Box/File Pedestal,1
+"Upper Wardrobe & Box Box File Pedestal, File File",ZXLR92907FFN,"Stor Wall w/R Twr & L Stor Int, 92""w x 90""h, Up Wdrb & BBF Ped-R Twr Stor, File/File, w/o Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Box/Box/File Pedestal,0
