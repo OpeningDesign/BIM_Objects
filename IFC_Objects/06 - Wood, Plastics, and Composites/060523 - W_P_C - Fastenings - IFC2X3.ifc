@@ -16,7 +16,7 @@ HEADER;
 * Header model creation date:     Sun Feb 20 20:02:22 2022
 * EDMuser:                        sdai-user
 * EDMgroup:                       sdai-group
-* License ID and type:            5605 : Permanent license. Expiry date: 
+* License ID and type:            5605 : Permanent license. Expiry date:
 * EDMstepFileFactory options:     020000
 ******************************************************************************************/
 FILE_DESCRIPTION(('ViewDefinition [CoordinationView_V2.0]'),'2;1');
@@ -111,7 +111,7 @@ DATA;
 #115= IFCUNITASSIGNMENT((#46,#50,#54,#58,#59,#62,#65,#67,#68,#70,#74,#78,#80,#81,#82,#83,#84,#85,#86,#91,#95,#97,#101,#107,#113));
 #117= IFCAXIS2PLACEMENT3D(#6,$,$);
 #118= IFCDIRECTION((6.12303176911189E-17,1.));
-#120= IFCGEOMETRICREPRESENTATIONCONTEXT($,'Model',3,0.0001,#117,#118);
+#120= IFCGEOMETRICREPRESENTATIONCONTEXT($,'Model',3,0.0000001,#117,#118);
 #123= IFCGEOMETRICREPRESENTATIONSUBCONTEXT('Axis','Model',*,*,*,*,#120,$,.GRAPH_VIEW.,$);
 #125= IFCGEOMETRICREPRESENTATIONSUBCONTEXT('Body','Model',*,*,*,*,#120,$,.MODEL_VIEW.,$);
 #126= IFCGEOMETRICREPRESENTATIONSUBCONTEXT('Box','Model',*,*,*,*,#120,$,.MODEL_VIEW.,$);
