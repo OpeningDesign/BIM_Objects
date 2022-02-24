@@ -1,7 +1,0 @@
-;Description##other##;Model##other##;Has Extension##other##;Has Arms##other##;Has Power##other##;Unit Weight##other##;Width Seat##length##inches
-Two Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Two Seater Sofa With Extensions with Power;STSSM2P;1;225;1;175;60.25
-Three Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Three Seater Sofa With Extensions with Power;STSSM3P;1;275;1;230;90.25
-Four Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Four Seater Sofa With Extensions with Power;STSSM4P;1;0;1;330;120.25
-Five Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Five Seater Sofa With Extensions with Power;STSSM5P;1;0;1;385;150.25
-Six Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Six Seater Sofa With Extensions with Power;STSSM6P;1;0;1;440;180.25
-Seven Seater With Extensions, Power/USB Options;Spectrum - Multiple Seater Mono, Seven Seater Sofa With Extensions with Power;STSSM7P;1;0;1;550;210.25

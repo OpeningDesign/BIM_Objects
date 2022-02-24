@@ -1,0 +1,11 @@
+,Model##other##,Depth##length##inches,Width##length##inches,Height##length##inches,Description##other##,Unit Weight##other##,Has Left Door##other##,Has Right Door##other##,Has Double Left Door##other##,Has Double Right Door##other##,Has Wire Management##other##
+"24"" x 40"" x 30"", No Door, w/o Wire Management",ZXSS244030NN,24,40,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 40""w x 30""h, No Door, w/o Wire Management",155,0,0,0,0,0
+"24"" x 40"" x 30"", No Door, w/ Wire Management",ZXSS244030NY,24,40,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 40""w x 30""h, No Door, w/ Wire Management",155,0,0,0,0,1
+"24"" x 60"" x 30"", Door on Left, w/o Wire Management",ZXSS246030LN,24,60,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 60""w x 30""h, Door on Left, w/o Wire Management",204,1,0,0,0,0
+"24"" x 60"" x 30"", Door on Left, w/ Wire Management",ZXSS246030LY,24,60,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 60""w x 30""h, Door on Left, w/ Wire Management",204,1,0,0,0,1
+"24"" x 60"" x 30"", Door on Right, w/o Wire Management",ZXSS246030RN,24,60,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 60""w x 30""h, Door on Right, w/o Wire Management",204,0,1,0,0,0
+"24"" x 60"" x 30"", Door on Right, w/ Wire Management",ZXSS246030RY,24,60,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 60""w x 30""h, Door on Right, w/ Wire Management",204,0,1,0,0,1
+"24"" x 80"" x 30"", Door on Left, w/o Wire Management",ZXSS248030LN,24,80,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 80""w x 30""h, Door on Left, w/o Wire Management",257,0,0,1,0,0
+"24"" x 80"" x 30"", Door on Left, w/ Wire Management",ZXSS248030LY,24,80,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 80""w x 30""h, Door on Left, w/ Wire Management",257,0,0,1,0,1
+"24"" x 80"" x 30"", Door on Right, w/o Wire Management",ZXSS248030RN,24,80,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 80""w x 30""h, Door on Right, w/o Wire Management",257,0,0,0,1,0
+"24"" x 80"" x 30"", Door on Right, w/ Wire Management",ZXSS248030RY,24,80,30,"High Side-by-Side Box, Box, File Credenza, 24""d x 80""w x 30""h, Door on Right, w/ Wire Management",257,0,0,0,1,1

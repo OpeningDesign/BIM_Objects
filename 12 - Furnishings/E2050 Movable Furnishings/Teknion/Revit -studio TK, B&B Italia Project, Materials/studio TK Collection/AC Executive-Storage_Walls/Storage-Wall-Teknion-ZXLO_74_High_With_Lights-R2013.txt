@@ -1,0 +1,8 @@
+,Model##other##,Description##other##,Storage Tower##other##
+Upper Shelves & Lower Door,ZXLO92741L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Shlvs & Low Dr-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Shelves & Lower Door
+Upper Shelves & File File Pedestal,ZXLO92742L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Shlvs & FF Ped-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Shelves & File/File Pedestal
+Upper Shelves & Box Box File Pedestal,ZXLO92743L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Shlvs & BBF Ped-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Shelves & Box/Box/File Pedestal
+Full Wardrobe,ZXLO92744L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Full Wdrb-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Full Wardrobe
+Upper Wardrobe & Lower Door,ZXLO92745L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Wdrb & Low Dr-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Lower Door
+Upper Wardrobe & File File Pedestal,ZXLO92746L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Wdrb & FF Ped-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & File/File Pedestal
+Upper Wardrobe & Box Box File Pedestal,ZXLO92747L,"Stor Wall w/L Twr & Open Int, 92""w x 74""h, Up Wdrb & BBF Ped-L Twr Stor, w/Light",Storage-Unit-Teknion-Tower : Upper Wardrobe & Box/Box/File Pedestal
